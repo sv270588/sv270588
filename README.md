@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Srikanth
+- 👀 I’m interested in Finding Insights for Raw Data as per Business Requirement
+- 🌱 I’m currently Working as Software Engineer
+- 💞️ I’m looking to collaborate on New Requirement
+- 📫 Reach me at Sv27051988@gmail.com
